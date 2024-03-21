@@ -1,0 +1,42 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.mail{
+    text-align: center;
+}
+
+.insert{
+    width: 10%;
+    height: 10%;
+}
+
+.insert1{
+    width: 7%;
+    height: 7%;
+}
+
+.insert2{
+    width: 7%;
+    height: 7%;
+}
+
+.introduction{
+    font-size: 20px;
+    line-height: 200%;
+}
+
+.jumbotron { 
+    background:url('../images/S__63119366.jpg')
+    center no-repeat; background-size: 
+    cover;
+}
+
+.head{
+    color: whitesmoke;
+}
+
+.right{
+    text-align: center;
+}
