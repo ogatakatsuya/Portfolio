@@ -40,3 +40,10 @@
 .right{
     text-align: center;
 }
+
+.reputation{
+    width: 10%;
+    height: 10%;
+    margin: 0;
+    padding: 0;
+}
