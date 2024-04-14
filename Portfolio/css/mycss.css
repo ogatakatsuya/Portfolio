@@ -28,13 +28,17 @@
 }
 
 .jumbotron { 
-    background:url('../images/slide4.jpg')
+    background:url('../images/pexels-sohel-patel-1804035.jpg')
     center no-repeat; background-size: 
     cover;
 }
 
-.head{
-    color:black
+.display-1{
+    color:rgb(47, 40, 119)
+}
+
+.lead{
+    color: rgb(16, 6, 145);
 }
 
 .right{
