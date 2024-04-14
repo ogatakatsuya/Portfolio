@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
+<!doctype html>
+<html lang="en">
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/mycss.css">
     <title>Ogata Katsuyaのポートフォリオ</title>
-</head>
-<body style="padding-top:50px;">
+  </head>
+  <body style="padding-top:50px;">
     
     <div class="container">
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
@@ -52,7 +52,7 @@
         </h2>
         <div class="row justify-content:space-around">
             <p class="col-4">
-                <img src="images/IMG_3751.png" class="img-fluid" alt="my_pic">
+                <img src="images/mine.png" class="img-fluid" alt="my_pic">
             </p>
             <p class="col align-self-center introduction">
                 はじめまして！平成15年12月25日生まれ20歳の学生エンジニア,緒方克哉と申します．
@@ -349,9 +349,7 @@
     <div class="container my-5">
         <h2 id="contact" class="title">
             <img src="images/838_ma_h.png" class="insert2 img-fluid" alt="">Contact</h2>
-        <p class="mail">ご意見，ご感想など，下記のメールアドレスにお気軽にご連絡ください．</p>
-        <p class="mail">katsuya151225[at]icloud.com</p>
-        <p class="mail">（メールアドレスの[at]は＠記号に置き換えてください）</p>
+        <div id="root" class="mail"></div>
     </div>
 
     <footer class="footer">
@@ -368,6 +366,8 @@
     </footer>
     <script src="../js/bootstrap.bundle.min.js"></script>
     <script src="../js/jquery-3.7.1.slim.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
     <script src="script.js"></script>
-</body>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
 </html>
