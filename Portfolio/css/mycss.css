@@ -34,11 +34,13 @@
 }
 
 .display-1{
-    color:rgb(47, 40, 119)
+    color: white;
+    letter-spacing: 0.10em;
 }
 
 .lead{
-    color: rgb(16, 6, 145);
+    color: white;
+    letter-spacing: 0.10em;
 }
 
 .right{
