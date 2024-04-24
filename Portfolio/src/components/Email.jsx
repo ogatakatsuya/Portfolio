@@ -30,7 +30,7 @@ const Email = () => {
         <>
         <div class="container my-5">
         <h2 id="contact" class="title">
-            <img src="../../images/838_ma_h.png" class="insert2 img-fluid" alt=""></img>Contact</h2>
+            <img src="./images/838_ma_h.png" class="insert2 img-fluid" alt=""></img>Contact</h2>
             <div class="mainContent">
         <p>ご意見，ご感想など，下記のメールアドレスにお気軽にご連絡ください．</p>
         <div class="contentsBox">
