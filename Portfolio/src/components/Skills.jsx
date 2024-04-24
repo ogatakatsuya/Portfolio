@@ -1,4 +1,10 @@
+// import { useHistory } from 'react-router-dom';
+
 const Skills = () => {
+    // const history = useHistory();
+    // const handleRedirect = (num) => {
+    //     history.push('/templates/'+num+'.html');
+    // };
     return(
         <>
         <div class="container my-5">
@@ -15,7 +21,6 @@ const Skills = () => {
                                 大学の講義で学習し，バックエンドの開発では最も使用している言語です．
                             </div>
                         </p>
-                        <a href="./templates/1.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
         
@@ -27,7 +32,6 @@ const Skills = () => {
                                 参考書を用いて独学で習得し，フロントエンドの装飾で使用しています．
                             </div>
                         </p>
-                        <a href="./templates/2.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
                 
@@ -39,7 +43,6 @@ const Skills = () => {
                                 参考書を用いて独学で習得し，CSSのフレームワークとして使用しています．
                             </div>
                         </p>
-                        <a href="./templates/3.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
@@ -53,7 +56,6 @@ const Skills = () => {
                                 大学の講義と参考書で実用的な使用方法を学び，基本的なコマンドを使用することができます
                             </div>
                         </p>
-                        <a href="./templates/4.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
         
@@ -65,7 +67,6 @@ const Skills = () => {
                                 参考書を用いて学習しました．コンテナ化を行い開発を行ったり，コンテナからイメージを抽出してデプロイを行えます．
                             </div>
                         </p>
-                        <a href="./templates/5.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
                 
@@ -77,7 +78,6 @@ const Skills = () => {
                                 大学の講義で基本的な文法と言語の特徴を学習しました．GUIを用いた開発を行うことができます．
                             </div>
                         </p>
-                        <a href="./templates/6.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,6 @@ const Skills = () => {
                                 大学の講義で初めて習ったプログラミング言語です．基本的なデータ構造やアルゴリズムを実装することができます．
                             </div>
                         </p>
-                        <a href="./templates/7.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
         
@@ -103,7 +102,6 @@ const Skills = () => {
                                 Webアプリケーションのバックエンド開発のフレームワークとして，参考書を用いて独学で習得しました．
                             </div>
                         </p>
-                        <a href="./templates/8.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
                 
@@ -115,7 +113,6 @@ const Skills = () => {
                                 大学の情報科学やコンピュータアーキテクチャの復習と，基本的な知識を習得するために取得しました．
                             </div>
                         </p>
-                        <a href="./templates/9.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
@@ -129,7 +126,6 @@ const Skills = () => {
                                 動的なWebサイトを作成するために参考書を用いてよく使用する文法を学習しました．
                             </div>
                         </p>
-                        <a href="./templates/10.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
         
@@ -141,7 +137,6 @@ const Skills = () => {
                                 JavaScriptのモダンなフレームワークを習得するために，Udemyの動画講座を用いて学習しました．
                             </div>
                         </p>
-                        <a href="./templates/11.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
                 
@@ -153,7 +148,6 @@ const Skills = () => {
                                 DBを使用したWebアプリケーションを作成したいと思い，参考書を用いて学習しました．
                             </div>
                         </p>
-                        <a href="./templates/onmaking.html" class="btn btn-primary">more</a>
                     </div>
                 </div>
             </div>
