@@ -29,11 +29,12 @@ const Works = () => {
             </div>
     
             <div class="card">
-                <img src="images/Screenshot 2024-03-22 at 11.26.31.png" alt=""></img>
+                <img src="images/todobox.png" alt=""></img>
                 <div class="card-body">
-                    <h4 class="card-title">ポートフォリオ</h4>
-                    <small class="card-body">HTML/CSS/Bootstrap</small>
-                    <p class="card-body">自己紹介と自分自身のスキルや実装してきた成果物を載せるためのポートフォリオです．</p>
+                    <h4 class="card-title">ToDoBox</h4>
+                    <small class="card-body">HTML/CSS/Bootstrap/React/Firebase</small>
+                    <p class="card-body">認証機能とToDoリスト機能を有したWebアプリケーションです.操作しやすいUIにすることを意識しました．</p>
+                    <a href="https://to-do-box.vercel.app/" target="_blank" class="btn btn-primary mr-3">アプリはこちら</a>
                     <a href="https://github.com/ogatakatsuya/Portfolio" target="_blank" class="btn btn-secondary">github</a>
                 </div>
             </div>
