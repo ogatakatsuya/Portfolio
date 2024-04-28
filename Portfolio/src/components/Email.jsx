@@ -32,7 +32,7 @@ const Email = () => {
         <h2 id="contact" class="title">
             <img src="./images/838_ma_h.png" class="insert2 img-fluid" alt=""></img>Contact</h2>
             <div class="mainContent">
-        <p>ご意見，ご感想など，下記のメールアドレスにお気軽にご連絡ください．</p>
+        <p>ご意見，ご感想など，お気軽にご連絡ください．送信ボタンを押すと自動でメールが送信されます．</p>
         <div class="contentsBox">
             <form ref={form} onSubmit={sendEmail}> 
             <div class="row g-1">
