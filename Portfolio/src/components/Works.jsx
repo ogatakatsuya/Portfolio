@@ -35,6 +35,41 @@ const Works = () => {
                     <small class="card-body">HTML/CSS/Bootstrap/React/Firebase</small>
                     <p class="card-body">認証機能とToDoリスト機能を有したWebアプリケーションです.操作しやすいUIにすることを意識しました．</p>
                     <a href="https://to-do-box.vercel.app/" target="_blank" class="btn btn-primary mr-3">アプリはこちら</a>
+                    <a href="https://github.com/ogatakatsuya/ToDoBox" target="_blank" class="btn btn-secondary">github</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-deck mt-4">
+            
+            <div class="card">
+                <img src="images/scheduling_app.png" alt=""></img>
+                <div class="card-body">
+                    <h4 class="card-title">Scheduling App</h4>
+                    <small class="card-body">Flask/Next.js/TypeScript/MaterialUI</small>
+                    <p class="card-body">日々のスケジュールを管理できるアプリケーションです．日々の格言も確認できます！</p>
+                    <a href="https://scheduling-front-ten.vercel.app/" target="_blank" class="btn btn-primary mr-3">アプリはこちら</a>
+                    <a href="https://github.com/ogatakatsuya/Hackathon_Prac" target="_blank" class="btn btn-secondary">github</a>
+                </div>
+            </div>
+    
+            <div class="card">
+                <img src="images/OopsHub.png" alt=""></img>
+                <div class="card-body">
+                    <h4 class="card-title">OopsHub</h4>
+                    <small class="card-body">Django/Next.js/TypeScript/MaterialUI</small>
+                    <p class="card-body">失敗談をAIに相談できたり，他の人の失敗談を見ることができます．どんまいボタンや失敗談コンテストも実装しました．</p>
+                    <a href="https://github.com/ogatakatsuya/OopsHub" target="_blank" class="btn btn-secondary">github</a>
+                </div>
+            </div>
+    
+            <div class="card">
+                <img src="images/Screenshot 2024-03-22 at 11.26.31.png" alt=""></img>
+                <div class="card-body">
+                    <h4 class="card-title">Portfolio</h4>
+                    <small class="card-body">HTML/CSS/Bootstrap/React</small>
+                    <p class="card-body">このポートフォリオサイトです．初めて作成したWebサイトです．</p>
+                    <a href="https://portfolio-mopp.vercel.app/" target="_blank" class="btn btn-primary mr-3">アプリはこちら</a>
                     <a href="https://github.com/ogatakatsuya/Portfolio" target="_blank" class="btn btn-secondary">github</a>
                 </div>
             </div>

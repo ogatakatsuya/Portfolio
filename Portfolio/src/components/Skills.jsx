@@ -37,7 +37,7 @@ const Skills = () => {
                 
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">Bootstrap</h4>
+                        <h4 class="card-title">Tailwindcss/MUI/ChakraUI</h4>
                         <p class="card-text">
                             <div class="text my-4">
                                 参考書を用いて独学で習得し，CSSのフレームワークとして使用しています．
@@ -107,10 +107,11 @@ const Skills = () => {
                 
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">基本情報技術者</h4>
+                        <h4 class="card-title">FastAPI</h4>
                         <p class="card-text">
                             <div class="text my-4">
-                                大学の情報科学やコンピュータアーキテクチャの復習と，基本的な知識を習得するために取得しました．
+                                公式のドキュメントを見て学習を行いました．
+                                APIをスキーマ・ルーター・サービスに分けて実装を行うことができます．
                             </div>
                         </p>
                     </div>
@@ -120,7 +121,7 @@ const Skills = () => {
             <div class="card-deck mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h4 class="card-title">JavaScript</h4>
+                        <h4 class="card-title">JavaScript/TypeScript</h4>
                         <p class="card-text">
                             <div class="text my-4">
                                 動的なWebサイトを作成するために参考書を用いてよく使用する文法を学習しました．
@@ -146,6 +147,41 @@ const Skills = () => {
                         <p class="card-text">
                             <div class="text my-4">
                                 DBを使用したWebアプリケーションを作成したいと思い，参考書を用いて学習しました．
+                            </div>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-deck mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">firebase</h4>
+                        <p class="card-text">
+                            <div class="text my-4">
+                                公式のドキュメントを見て学習しました．
+                                firebase authenticationやfirestoreを用いてアプリ開発を行うことができます．
+                            </div>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">基本情報技術者</h4>
+                        <p class="card-text">
+                            <div class="text my-4">
+                                大学の情報科学やコンピュータアーキテクチャの復習と，基本的な知識を習得するために取得しました．
+                            </div>
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">GitHubActions</h4>
+                        <p class="card-text">
+                            <div class="text my-4">
+                                pytestを利用したテストとコンテナを用いたデプロイを自動化できます．
                             </div>
                         </p>
                     </div>
